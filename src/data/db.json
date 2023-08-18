@@ -1,0 +1,84 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿En qué año tuvo lugar la Revolución Francesa?",
+      "answers": ["1789", "1804", "1765", "1821"],
+      "correct": "1789"
+    },
+    {
+      "id": 2,
+      "question": "¿Qué famoso pintor es conocido por haber creado la Mona Lisa?",
+      "answers": [
+        "Vincent van Gogh",
+        "Pablo Picasso",
+        "Leonardo da Vinci",
+        "Michelangelo"
+      ],
+      "correct": "Leonardo da Vinci"
+    },
+    {
+      "id": 3,
+      "question": "¿Cuál es el río más largo del mundo?",
+      "answers": ["Río Amazonas", "Río Nilo", "Río Yangtsé", "Río Misisipi"],
+      "correct": "Río Nilo"
+    },
+    {
+      "id": 4,
+      "question": "¿Cuál es la capital de Japón?",
+      "answers": ["Pekín", "Seúl", "Tokio", "Bangkok"],
+      "correct": "Tokio"
+    },
+    {
+      "id": 5,
+      "question": "¿Cuál es la novela clásica de George Orwell que presenta una sociedad distópica gobernada por un partido totalitario?",
+      "answers": [
+        "1984",
+        "Un mundo feliz",
+        "Fahrenheit 451",
+        "Rebelión en la granja"
+      ],
+      "correct": "1984"
+    },
+    {
+      "id": 6,
+      "question": "¿Cuál es el metal más abundante en la corteza terrestre?",
+      "answers": ["Hierro", "Aluminio", "Cobre", "Plomo"],
+      "correct": "Aluminio"
+    },
+    {
+      "id": 7,
+      "question": "¿En qué continente se encuentra el desierto del Sahara?",
+      "answers": ["Asia", "América del Norte", "América del Sur", "África"],
+      "correct": "África"
+    },
+    {
+      "id": 8,
+      "question": "¿Quién escribió la obra Don Quijote de la Mancha?",
+      "answers": [
+        "Gabriel García Márquez",
+        "Miguel de Cervantes",
+        "Pablo Neruda",
+        "Mario Vargas Llosa"
+      ],
+      "correct": "Miguel de Cervantes"
+    },
+    {
+      "id": 9,
+      "question": "¿Qué elemento químico tiene el símbolo (Hg) en la tabla periódica?",
+      "answers": ["Hierro", "Hidrógeno", "Helio", "Mercurio"],
+      "correct": "Mercurio"
+    },
+    {
+      "id": 10,
+      "question": "¿Cuál es la montaña más alta del mundo?",
+      "answers": [
+        "Montaña McKinley",
+        "Montaña Kilimanjaro",
+        "Monte Everest",
+        "Montaña Aconcagua"
+      ],
+      "correct": "Monte Everest"
+    }
+  ]
+}
